@@ -42,7 +42,7 @@ I conduct penetration tests, build IoT and robotics projects, train ML models th
 
 ## 📫 Let's Connect
 
-- 🌐 **Portfolio:** https://regismugisha.io
+- 🌐 **Portfolio:** https://regismugisha.github.io
 - 📧 **Email:** regismugisha40@gmail.com
 
 ---
